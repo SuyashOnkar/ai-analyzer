@@ -1,0 +1,36 @@
+# Node.js files
+node_modules/
+
+# Nest.js generated files
+/dist
+/tmp
+/*.log
+*.pid
+*.seed
+*.pid.lock
+lib-cov
+.coverage
+coverage
+*.lcov
+.nyc_output
+.grunt
+bower_components
+.lock-wscript
+build/Release
+node_modules/
+jspm_packages/
+typings/
+npm-debug.log
+config/local.env
+.env
+
+# Nest.js dotenv environment variables file
+.env
+
+# macOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
